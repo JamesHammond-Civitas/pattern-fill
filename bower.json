@@ -23,6 +23,6 @@
     "pattern-fill.js",
     "pattern-fill-v2.js"
   ],
-  "name": "pattern-fill",
-  "version": "2.0.1"
+  "name": "highcharts-pattern-fill",
+  "version": "3.0.5"
 }
