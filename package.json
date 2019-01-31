@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "main": "pattern-fill-v2.js",
-  "name": "pattern-fill",
+  "name": "highcharts-pattern-fill",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/highslide-software/pattern-fill.git"
